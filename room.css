@@ -1,0 +1,348 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    background-color: rgb(16, 16, 84);
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.rhotelstay{
+    display: flex;
+
+}
+
+.rhotelstay h3{
+    font-size: 36px;
+    margin-top: 3%;
+}
+
+.rhotelstay span{
+    color: yellow;
+}
+
+.rlinks{
+    display: flex;
+    justify-content: space-between;
+    gap: 15%;
+    font-size: 24px;
+    text-decoration: aqua;
+    margin-top: 1%;
+    padding-bottom: 2%;
+}
+
+.rlinks a{
+    text-decoration: none;
+    color: white;
+}
+
+.rhotelstay img{
+    margin-top: 22%;
+} 
+
+.sera{
+    color: rgb(252, 247, 247);
+    
+}
+
+.rrooms h2{
+    color: rgb(248, 248, 253);
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    font-size: 54px;
+}
+
+.rrooms p{
+    color: rgb(248, 248, 253);
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    font-size: 20px;
+}
+
+
+.sec23{
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    line-height: 1cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    
+}
+
+.sec23 h4{
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.gu{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.guest{
+    display: flex;
+}
+
+
+.bed{
+    display: flex;
+}
+.wifi{
+    display: flex;
+}
+
+
+button{
+    background-color: yellow;
+    padding-right: 40px;
+    padding-left: 35px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 30%;
+}
+
+.rooma{
+    background-color: beige;
+    width: 20%;
+}
+
+.roomb{
+    background-color: beige;
+    width: 25%;
+}
+.roomc{
+    background-color: beige;
+    width: 20%;
+}
+    /* footer */
+
+
+    .foot{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(16, 16, 84);
+    color: white;
+    margin-top: 50px;
+}
+
+.hotel1{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 40px;
+}
+
+.com p{
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.hotel1 h4{
+    font-size: 28px;
+}
+
+.quick h3{
+    color: yellow;
+    font-size: 20px;
+}
+
+.quick p{
+    font-size: 16px;
+}
+
+.quick{
+    margin-top: 25px;
+    line-height: 1cm;
+}
+
+.contact h3{
+    color: yellow;
+    font-size: 28px;
+}
+
+.call{
+    display: flex;
+    font-size: 24px;
+    gap: 30px;
+}
+
+.mail{
+    display: flex;
+    font-size: 24px;
+    gap: 15px;
+}
+
+.loc{
+    display: flex;
+    font-size: 24px;
+    gap: 15px;
+}
+
+.contact{
+
+    margin-top: 30px;
+    line-height: 1cm;
+    margin-right: 30px;
+
+}
+
+.contact img{
+    border: 1px solid rgb(9, 1, 1);
+    border-radius: 70%;
+}
+
+.last{
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    background-color: rgb(16, 16, 84);
+     padding-top: 15px;
+     padding-bottom: 15px;
+
+}
+
+
+/* aboout section */
+
+
+.about21{
+    position: absolute;
+    top: 40%;
+    color: white;
+    font-size: 24px;
+    margin-left: 100px;
+}
+
+.about21 h3{
+    font-size: 76px;
+}
+
+.about21 p{
+    word-spacing: 30%;
+    letter-spacing: 10%;
+}
+
+.choose{
+    position: absolute;
+    top: 70%;
+    left: 35%;
+}
+
+.choose h4{
+    font-size: 34px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.choose span{
+    color: rgb(221, 113, 63);
+}
+
+.choose p{
+    word-spacing: 10px;
+    font-size: 15px;
+}
+
+.choose h5{
+    font-size: 26px;
+    margin-top: 15px;
+}
+
+.choose ul{
+    font-size: 15px;
+    word-spacing:10px ;
+    line-height: 20px;
+    list-style-type: disc;
+
+}
+
+.choose button{
+    background-color: yellow;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.sec4{
+    display: flex;
+    position: relative;
+    top: 80px;
+    justify-content: space-around;
+    border: 1px solid white;
+    background-color: rgb(245, 239, 239);
+}
+
+.sec4 img{
+    border-radius: 50%;
+}
+
+.sec4 h5{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.sec4 p{
+    margin-top: 10px;
+}
+
+/* contect us  */
+
+
+.contact21{
+    position: absolute;
+    top:15%;
+    left: 40%;
+    font-size: 40px;
+    color: white;
+}
+
+.contact21 p{
+    font-size: 20px;
+}
+
+.ran{
+display: flex;
+justify-self: 1cm;
+}
+
+.cal{
+    display: flex;
+}
+
+
+.mal{
+    display: flex;
+}
+
+.get{
+    line-height: 1cm;
+    
+    margin-left: 18cm;
+    word-spacing: 0.2cm;
+    margin-top: 3cm;
+
+}
+.social h4{
+    font-size: 24px;
+}
+
+.form input{
+    color: black;
+    border-radius: 10%;
+}
+
+.get h3{
+    font-size: 28px;
+}
+
